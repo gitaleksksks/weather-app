@@ -26,3 +26,8 @@
    Username: admin 
    Password: password
    ```
+---------------------------------------------------------------------------------
+<img src="screenshots/WeatherAppScreenshot1.png" height="400" alt="Screenshot"/><br/>
+---------------------------------------------------------------------------------
+<img src="screenshots/WeatherAppScreenshot2.png" height="400" alt="Screenshot"/><br/>
+---------------------------------------------------------------------------------
